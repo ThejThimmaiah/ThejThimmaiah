@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThejThimmaiah
 - 👀 I’m interested in Machine Learning and Artificial Inteligence
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently pursuing DataScience in Itvedant.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
